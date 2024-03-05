@@ -1,8 +1,10 @@
 # Initialiser le Template Symfony 5.8.3 :
-- composer install
-- composer update
-- yarn install
-- yarn dev
+- Supprimer le fichier ".git
+- Commande à executer dans le terminal du projet : 
+  - composer install
+  - composer update
+  - yarn install
+  - yarn dev
 
 # Base de donnée :
 - modifier ".env" : DATABASE_URL="mysql://root:@127.0.0.1:3306/db_name"
