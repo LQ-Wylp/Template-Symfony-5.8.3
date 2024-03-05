@@ -1,5 +1,5 @@
 # Initialiser le Template Symfony 5.8.3 :
-- Supprimer le fichier ".git
+- Supprimer le fichier ".git"
 - Commande à executer dans le terminal du projet : 
   - composer install
   - composer update
